@@ -1,0 +1,6 @@
+{
+  "name": "Thenux Fitness",
+  "description": "A high-fidelity gymnastic tracker, custom calendar planner, active streak counter, and notification helper styled after premium iOS design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
